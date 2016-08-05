@@ -1,0 +1,56 @@
+_repo: Second-Treatise-of-Government_7370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Locke, John
+    alias: Lock, John
+    birthdate: 1632
+    deathdate: 1704
+    gutenberg_agent_id: '2447'
+    url: http://www.gutenberg.org/2009/agents/2447
+    wikipedia: http://en.wikipedia.org/wiki/John_Locke
+description: "Two Treatises of Government (or Two Treatises of Government: In the\
+  \ Former, The False Principles, and Foundation of Sir Robert Filmer, and His Followers,\
+  \ Are Detected and Overthrown. The Latter Is an Essay Concerning The True Original,\
+  \ Extent, and End of Civil Government) is a work of political philosophy published\
+  \ anonymously in 1689 by John Locke. The First Treatise attacks patriarchalism in\
+  \ the form of sentence-by-sentence refutation of Robert Filmer's Patriarcha, while\
+  \ the Second Treatise outlines Locke's ideas for a more civilized society based\
+  \ on natural rights and contract theory.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Philosophy
+- Politics
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7370'
+  wikidata: Q231949
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Toleration -- Early works to 1800'
+- !lcsh 'Political science -- Early works to 1800'
+- !lcc 'JC'
+- !lcsh 'Liberty -- Early works to 1800'
+- GITenberg
+title: Second Treatise of Government
+url: http://www.gutenberg.org/ebooks/7370
+wikipedia:
+- https://fi.wikipedia.org/wiki/Two_Treatises_of_Government
+- https://fr.wikipedia.org/wiki/Trait%C3%A9_du_gouvernement_civil
+- https://ja.wikipedia.org/wiki/%E7%B5%B1%E6%B2%BB%E4%BA%8C%E8%AB%96
+- https://pt.wikipedia.org/wiki/Dois_Tratados_sobre_o_Governo
+- https://pl.wikipedia.org/wiki/Dwa_traktaty_o_rz%C4%85dzie
+- https://fa.wikipedia.org/wiki/%D8%AF%D9%88_%D8%B1%D8%B3%D8%A7%D9%84%D9%87_%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D8%AD%DA%A9%D9%88%D9%85%D8%AA
+- https://de.wikipedia.org/wiki/Zwei_Abhandlungen_%C3%BCber_die_Regierung
+- https://en.wikipedia.org/wiki/Two_Treatises_of_Government
+- https://es.wikipedia.org/wiki/Dos_tratados_sobre_el_gobierno_civil
+- https://bg.wikipedia.org/wiki/%D0%94%D0%B2%D0%B0_%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%B0%D1%82%D0%B0_%D0%B7%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%BE
+- https://it.wikipedia.org/wiki/Due_trattati_sul_governo
+- https://io.wikipedia.org/wiki/Du_traktati_pri_civila_guvernerio
+- https://hr.wikipedia.org/wiki/Dvije_rasprave_o_vladi
+- https://is.wikipedia.org/wiki/Ritger%C3%B0_um_r%C3%ADkisvald
+- https://bs.wikiquote.org/wiki/Dvije_rasprave_o_vladi
+- https://uk.wikipedia.org/wiki/%D0%94%D0%B2%D0%B0_%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%B0%D1%82%D0%B8_%D0%BF%D1%80%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F
