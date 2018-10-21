@@ -12,7 +12,7 @@ Author: John Locke
 
 Posting Date: July 28, 2010 [EBook #7370]
 Release Date: January, 2005
-[Last updated: January 6, 2014]
+[Last updated: September 5, 2017]
 
 Language: English
 
@@ -297,7 +297,7 @@ which willeth the peace and preservation of all mankind, the execution
 of the law of nature is, in that state, put into every man's hands,
 whereby every one has a right to punish the transgressors of that law to
 such a degree, as may hinder its violation: for the law of nature would,
-as all other laws that concern men in this world 'be in vain, if there
+as all other laws that concern men in this world be in vain, if there
 were no body that in the state of nature had a power to execute that
 law, and thereby preserve the innocent and restrain offenders. And if
 any one in the state of nature may punish another for any evil he has
@@ -419,7 +419,7 @@ scarce be so just as to condemn himself for it: but I shall desire those
 who make this objection, to remember, that absolute monarchs are but
 men; and if government is to be the remedy of those evils, which
 necessarily follow from men's being judges in their own cases, and the
-state of nature is therefore not to be endured, I desire to know what 
+state of nature is therefore not to be endured, I desire to know what
 kind of government that is, and how much better it is than the state
 of nature, where one man, commanding a multitude, has the liberty to be
 judge in his own case, and may do to all his subjects whatever he
@@ -766,7 +766,7 @@ same law of nature, that does by this means give us property, does also
 bound that property too. God has given us all things richly, 1 Tim. vi.
 12. is the voice of reason confirmed by inspiration. But how far has he
 given it us? To enjoy. As much as any one can make use of to any
-advantage of life before it spoils, so much he may by his Tabour fix a
+advantage of life before it spoils, so much he may by his labour fix a
 property in: whatever is beyond this, is more than his share, and
 belongs to others. Nothing was made by God for man to spoil or destroy.
 And thus, considering the plenty of natural provisions there was a long
@@ -1217,7 +1217,7 @@ Sect. 55. Children, I confess, are not born in this full state of
 equality, though they are born to it. Their parents have a sort of rule
 and jurisdiction over them, when they come into the world, and for some
 time after; but it is but a temporary one. The bonds of this subjection
-are like the swaddling clothes they art wrapt up in, and supported by,
+are like the swaddling clothes they are wrapt up in, and supported by,
 in the weakness of their infancy: age and reason as they grow up, loosen
 them, till at length they drop quite off, and leave a man at his own
 free disposal.
@@ -1553,8 +1553,7 @@ contain all the power on the one hand, and submission on the other,
 which are proper to this relation, yet there is another power ordinarily
 in the father, whereby he has a tie on the obedience of his children;
 which tho' it be common to him with other men, yet the occasions of
-shewing it, almost consich tho' it be common to him with other men, yet
-the occasions of shewing it, almost constantly happening to fathers in
+shewing it, almost constantly happening to fathers in
 their private families, and the instances of it elsewhere being rare,
 and less taken notice of, it passes in the world for a part of paternal
 jurisdiction. And this is the power men generally have to bestow their
@@ -1663,7 +1662,7 @@ Sect. 76. Thus the natural fathers of families, by an insensible change,
 became the politic monarchs of them too: and as they chanced to live
 long, and leave able and worthy heirs, for several successions, or
 otherwise; so they laid the foundations of hereditary, or elective
-kingdoms, under several constitutions and mannors, according as chance,
+kingdoms, under several constitutions and manners, according as chance,
 contrivance, or occasions happened to mould them. But if princes have
 their titles in their fathers right, and it be a sufficient proof of the
 natural right of fathers to political authority, because they commonly
@@ -1704,10 +1703,8 @@ nourished, and maintained by them, till they are able to provide for
 themselves.
 
 Sect. 79. For the end of conjunction, between male and female, being not
-barely procreation, but the continuation of the species; this
-conjunction betwixt male and female ought to last, even after
-procreation, so long as is necessary to the nourishment and support of
-the young ones, who are to be sustained even after procreation, so long
+barely procreation, but the continuation of the species; thisconjunction
+betwixt male and female ought to last, even after procreation, so long
 as is necessary to the nourishment and support of the young ones, who
 are to be sustained by those that got them, till they are able to shift
 and provide for themselves. This rule, which the infinite wise maker
@@ -1938,7 +1935,7 @@ authority decide, and from whose decision relief and redress may be
 expected of any injury or inconviency, that may be suffered from the
 prince, or by his order: so that such a man, however intitled, Czar, or
 Grand Seignior, or how you please, is as much in the state of nature,
-with all under his dominion, as he is with therest of mankind: for
+with all under his dominion, as he is with the rest of mankind: for
 where-ever any two men are, who have no standing rule, and common judge
 to appeal to on earth, for the determination of controversies of right
 betwixt them, there they are still in the state of* nature, and under
@@ -2184,13 +2181,11 @@ manifest footsteps of it.
 
 Sect. 102. He must shew a strange inclination to deny evident matter of
 fact, when it agrees not with his hypothesis, who will not allow, that
-shew a strange inclination to deny evident matter of fact, when it
-agrees not with his hypothesis, who will not allow, that the beginning
-of Rome and Venice were by the uniting together of several men free and
-independent one of another, amongst whom there was no natural
-superiority or subjection. And if Josephus Acosta's word may be taken,
-he tells us, that in many parts of America there was no government at
-all.
+the beginning of Rome and Venice were by the uniting together of several
+men free and independent one of another, amongst whom there was no
+natural superiority or subjection. And if Josephus Acosta's word may be
+taken, he tells us, that in many parts of America there was no
+government at all.
 
 There are great and apparent conjectures, says he, that these men,
 speaking of those of Peru, for a long time had neither kings nor
@@ -2346,13 +2341,13 @@ judges, and first kings, seems to have been to be captains in war, and
 leaders of their armies; which (besides what is signified by going out
 and in before the people, which was, to march forth to war, and home
 again in the heads of their forces) appears plainly in the story of
-lephtha. The Ammonites making war upon Israel, the Gileadites in fear
-send to lephtha, a bastard of their family whom they had cast off, and
+Jephtha. The Ammonites making war upon Israel, the Gileadites in fear
+send to Jephtha, a bastard of their family whom they had cast off, and
 article with him, if he will assist them against the Ammonites, to make
 him their ruler; which they do in these words, And the people made him
-head and captain over them, Judg. xi, ii. which was, as it seems, all
+head and captain over them, Judg. xi, 11. which was, as it seems, all
 one as to be judge. And he judged Israel, judg. xii. 7. that is, was
-their captain-general six years. So when lotham upbraids the Shechemites
+their captain-general six years. So when Jotham upbraids the Shechemites
 with the obligation they had to Gideon, who had been their judge and
 ruler, he tells them, He fought for you, and adventured his life far,
 and delivered you out of the hands of Midian, Judg. ix. 17. Nothing
@@ -3773,7 +3768,7 @@ If God has taken away all means of seeking remedy, there is nothing left
 but patience. But my son, when able, may seek the relief of the law,
 which I am denied: he or his son may renew his appeal, till he recover
 his right. But the conquered, or their children, have no court, no
-arbitrator on earth to appeal to. Then they may appeal, as lephtha did,
+arbitrator on earth to appeal to. Then they may appeal, as Jephtha did,
 to heaven, and repeat their appeal till they have recovered the native
 right of their ancestors, which was, to have such a legislative over
 them, as the majority should approve, and freely acquiesce in. If it be
@@ -4079,7 +4074,7 @@ properties, be they more or less, are their own, and at their own
 dispose, and not at his; or else it is no property. Supposing the
 conqueror gives to one man a thousand acres, to him and his heirs for
 ever; to another he lets a thousand acres for his life, under the rent
-of 50_l_. or 500_l_. per arm. has not the one of these a right to his
+of 50_l_. or 500_l_. per ann. has not the one of these a right to his
 thousand acres for ever, and the other, during his life, paying the said
 rent? and hath not the tenant for life a property in all that he gets
 over and above his rent, by his labour and industry during the said
@@ -4561,7 +4556,7 @@ concurrence, alter the legislative by a law, his consent being necessary
 to give any of their decrees that sanction. But yet, so far as the other
 parts of the legislative any way contribute to any attempt upon the
 government, and do either promote, or not, what lies in them, hinder
-such designs, they are guilty, and partake in this, which is certa inly
+such designs, they are guilty, and partake in this, which is certainly
 the greatest crime which men can partake of one towards another.
 
 Sec. 219.There is one way more whereby such a government may be
@@ -5054,7 +5049,7 @@ they would any other man, who has put himself into a state of war with
 them, Barclay, and those of his opinion, would do well to tell us. This
 farther I desire may be taken notice of out of Barclay, that he says,
 The mischief that is designed them, the people may prevent before it be
-clone: whereby he allows resistance when tyranny is but in design. Such
+done: whereby he allows resistance when tyranny is but in design. Such
 designs as these (says he) when any king harbours in his thoughts and
 seriously promotes, he immediately gives up all care and thought of the
 commonwealth; so that, according to him, the neglect of the public good
